@@ -1,0 +1,9 @@
+.swal-confirm-button {
+    background-color: #93AB4F !important; /* Background color for the confirmation button */
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
